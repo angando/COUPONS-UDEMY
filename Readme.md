@@ -8,10 +8,11 @@ Nous avons mis en place plusieurs formations gratuites sur Udemy pour vous perme
 
 ## Coupons de Réduction Disponibles
 
-### Formation 1 : Titre de la formation
+### Formation 1 : Fondamentaux de la sécurité pour Comptia security+ [2024]
+
 Description brève de la formation et de ce que vous apprendrez.
 
-**Code Promo :** `CODEPROMO1`
+**Réduction:** - `70%`
 
 [Utiliser le coupon](https://www.udemy.com/course/formation1/?couponCode=CODEPROMO1)
 
