@@ -9,7 +9,7 @@ Nous avons mis en place plusieurs formations gratuites sur Udemy pour vous perme
 ## Coupons de Réduction Disponibles
 
 ### Fondamentaux de la sécurité pour Comptia security+ [2024]
-**Code Promo :** `SECURITY2024`
+**Code Promo :** `B527A629ED98D007617F`
 [Utiliser le coupon](https://www.udemy.com/course/security/?couponCode=SECURITY2024)
 
 ### Pilotez votre Infrastructure Cloud avec Terraform
