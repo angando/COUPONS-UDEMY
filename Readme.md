@@ -125,7 +125,7 @@ Si vous n'êtes pas satisfait, inutile de mettre une mauvaise note. Contactez-no
 
 En plus des coupons Udemy, nous vous proposons d'autres moyens de financer votre apprentissage :
 
-- **Abonnements TeachMemore** : Abonnez-vous à TeachMemore avec notre code promo `TEACH40` pour bénéficier de `40%` de réduction et d'un accès illimité à tous nos cours pendant 1 an ou utiliser le code promo `TEACH50` pour bénéficier de d'une réduction de `50%` de réduction pendant 3 mois sur votre abonnement mensuel
+- **Abonnements TeachMemore** : Abonnez-vous à www.teachmemore.fr avec notre code promo `TEACH40` pour bénéficier de `40%` de réduction et d'un accès illimité à tous nos cours pendant 1 an ou utiliser le code promo `TEACH50` pour bénéficier de d'une réduction de `50%` de réduction pendant 3 mois sur votre abonnement mensuel
   
 
 
@@ -134,11 +134,17 @@ En plus des coupons Udemy, nous vous proposons d'autres moyens de financer votre
 ## Inscrivez-vous ici : https://tally.so/r/mJz98r
 
 
+- **Nos formations sont gratuites sur YOUTUBE** : Abonnez-vous à notre chaîne Youtube pour profiter de nos formations gratuites, likez nos vidéos, partagez pourque notre communauté puisse de developper afin qu'on vous fournisse toujours des contenus.
+- 
+
+- [Youtube](https://www.youtube.com/channel/UCX_iiZxUSDrlqrbMoIsPScQ)
+
+
+
 Suivez-nous sur les réseaux sociaux :
 
 
 - [LinkedIn](https://www.linkedin.com/in/armel-ngando-27898960/)
 
----
 
 &copy; 2024 TeachMeMore. Tous droits réservés.
