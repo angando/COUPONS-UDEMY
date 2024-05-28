@@ -17,11 +17,11 @@ Si vous n'êtes pas satisfait, inutile de mettre une mauvaise note. Contactez-no
 
 
 - **Initiation à l'analyse de données avec splunk**
-  - [Accéder à la formation gratuite](https://www.udemy.com/course/draft/5993268/?referralCode=8E5AFD760223E7B72E9E)
+  [Accéder à la formation gratuite](https://www.udemy.com/course/draft/5993268/?referralCode=8E5AFD760223E7B72E9E)
 
 
 - **Initiation à la gestion des packages Kubernetes avec Helm**
-  - [Accéder à la formation gratuite](https://www.udemy.com/course/draft/5992762/?referralCode=93051505F2B8C7452FC8)
+  [Accéder à la formation gratuite](https://www.udemy.com/course/draft/5992762/?referralCode=93051505F2B8C7452FC8)
 
 - **Initiation à l'orchestration de conteneurs avec Kubernetes**
   - [Accéder à la formation gratuite]()
