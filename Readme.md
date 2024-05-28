@@ -8,53 +8,53 @@ Nous avons mis en place plusieurs formations gratuites sur Udemy pour vous perme
 
 ## Coupons de Réduction Disponibles
 
-### Fondamentaux de la sécurité pour Comptia security+ [2024]
-**Code Promo :** `B527A629ED98D007617F`
-[Utiliser le coupon](https://www.udemy.com/course/security/?couponCode=SECURITY2024)
+- ### **Fondamentaux de la sécurité pour Comptia security+ [2024]**
+  **Code Promo :** `SECURITY2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/security/?couponCode=SECURITY2024)
 
-### Pilotez votre Infrastructure Cloud avec Terraform
-**Code Promo :** `TERRAFORM2024`
-[Utiliser le coupon](https://www.udemy.com/course/terraform/?couponCode=TERRAFORM2024)
+- ### **Pilotez votre Infrastructure Cloud avec Terraform**
+  **Code Promo :** `TERRAFORM2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/terraform/?couponCode=TERRAFORM2024)
 
-### Maîtrisez Vagrant | 2024
-**Code Promo :** `VAGRANT2024`
-[Utiliser le coupon](https://www.udemy.com/course/vagrant/?couponCode=VAGRANT2024)
+- ### **Maîtrisez Vagrant | 2024**
+  **Code Promo :** `VAGRANT2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/vagrant/?couponCode=VAGRANT2024)
 
-### Maîtrisez Prometheus [2024]
-**Code Promo :** `PROMETHEUS2024`
-[Utiliser le coupon](https://www.udemy.com/course/prometheus/?couponCode=PROMETHEUS2024)
+- ### **Maîtrisez Prometheus [2024]**
+  **Code Promo :** `PROMETHEUS2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/prometheus/?couponCode=PROMETHEUS2024)
 
-### Superviser une Infrastructure avec Grafana [2024]
-**Code Promo :** `GRAFANA2024`
-[Utiliser le coupon](https://www.udemy.com/course/grafana/?couponCode=GRAFANA2024)
+- ### **Superviser une Infrastructure avec Grafana [2024]**
+  **Code Promo :** `GRAFANA2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/grafana/?couponCode=GRAFANA2024)
 
-### GLPI Masterclass [2024]
-**Code Promo :** `GLPI2024`
-[Utiliser le coupon](https://www.udemy.com/course/glpi/?couponCode=GLPI2024)
+- ### **GLPI Masterclass [2024]**
+  **Code Promo :** `GLPI2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/glpi/?couponCode=GLPI2024)
 
-### Administration système Linux Ubuntu [2024]
-**Code Promo :** `UBUNTU2024`
-[Utiliser le coupon](https://www.udemy.com/course/ubuntu/?couponCode=UBUNTU2024)
+- ### **Administration système Linux Ubuntu [2024]**
+  **Code Promo :** `UBUNTU2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/ubuntu/?couponCode=UBUNTU2024)
 
-### Maîtrisez Git et GitHub
-**Code Promo :** `GITGITHUB2024`
-[Utiliser le coupon](https://www.udemy.com/course/gitgithub/?couponCode=GITGITHUB2024)
+- ### **Maîtrisez Git et GitHub**
+  **Code Promo :** `GITGITHUB2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/gitgithub/?couponCode=GITGITHUB2024)
 
-### Techniques Avancées sur AWS & Terraform [2024]
-**Code Promo :** `AWS2024`
-[Utiliser le coupon](https://www.udemy.com/course/aws/?couponCode=AWS2024)
+- ### **Techniques Avancées sur AWS & Terraform [2024]**
+  **Code Promo :** `AWS2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/aws/?couponCode=AWS2024)
 
-### Devenez EXPERT Kubernetes [2024]
-**Code Promo :** `KUBERNETES2024`
-[Utiliser le coupon](https://www.udemy.com/course/kubernetes/?couponCode=KUBERNETES2024)
+- ### **Devenez EXPERT Kubernetes [2024]**
+  **Code Promo :** `KUBERNETES2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/kubernetes/?couponCode=KUBERNETES2024)
 
-### OPNsense Masterclass [2024]
-**Code Promo :** `OPNSENSE2024`
-[Utiliser le coupon](https://www.udemy.com/course/opnsense/?couponCode=OPNSENSE2024)
+- ### **OPNsense Masterclass [2024]**
+  **Code Promo :** `OPNSENSE2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/opnsense/?couponCode=OPNSENSE2024)
 
-### Ansible Network & Windows Mastery [2024]
-**Code Promo :** `ANSIBLE2024`
-[Utiliser le coupon](https://www.udemy.com/course/ansible/?couponCode=ANSIBLE2024)
+- ### **Ansible Network & Windows Mastery [2024]**
+  **Code Promo :** `ANSIBLE2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/ansible/?couponCode=ANSIBLE2024)
 
 ## Autres options de financement
 
