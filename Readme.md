@@ -8,44 +8,53 @@ Nous avons mis en place plusieurs formations gratuites sur Udemy pour vous perme
 
 ## Coupons de Réduction Disponibles
 
-<ul>
-  <li style="color:blue;">### **Fondamentaux de la sécurité pour Comptia security+ [2024]**<br>
-    <strong>Code Promo :</strong> `SECURITY2024`<br>
-    <a href="https://www.udemy.com/course/security/?couponCode=SECURITY2024">Utiliser le coupon</a></li>
-  <li style="color:green;">### **Pilotez votre Infrastructure Cloud avec Terraform**<br>
-    <strong>Code Promo :</strong> `TERRAFORM2024`<br>
-    <a href="https://www.udemy.com/course/terraform/?couponCode=TERRAFORM2024">Utiliser le coupon</a></li>
-  <li style="color:purple;">### **Maîtrisez Vagrant | 2024**<br>
-    <strong>Code Promo :</strong> `VAGRANT2024`<br>
-    <a href="https://www.udemy.com/course/vagrant/?couponCode=VAGRANT2024">Utiliser le coupon</a></li>
-  <li style="color:red;">### **Maîtrisez Prometheus [2024]**<br>
-    <strong>Code Promo :</strong> `PROMETHEUS2024`<br>
-    <a href="https://www.udemy.com/course/prometheus/?couponCode=PROMETHEUS2024">Utiliser le coupon</a></li>
-  <li style="color:orange;">### **Superviser une Infrastructure avec Grafana [2024]**<br>
-    <strong>Code Promo :</strong> `GRAFANA2024`<br>
-    <a href="https://www.udemy.com/course/grafana/?couponCode=GRAFANA2024">Utiliser le coupon</a></li>
-  <li style="color:blue;">### **GLPI Masterclass [2024]**<br>
-    <strong>Code Promo :</strong> `GLPI2024`<br>
-    <a href="https://www.udemy.com/course/glpi/?couponCode=GLPI2024">Utiliser le coupon</a></li>
-  <li style="color:green;">### **Administration système Linux Ubuntu [2024]**<br>
-    <strong>Code Promo :</strong> `UBUNTU2024`<br>
-    <a href="https://www.udemy.com/course/ubuntu/?couponCode=UBUNTU2024">Utiliser le coupon</a></li>
-  <li style="color:purple;">### **Maîtrisez Git et GitHub**<br>
-    <strong>Code Promo :</strong> `GITGITHUB2024`<br>
-    <a href="https://www.udemy.com/course/gitgithub/?couponCode=GITGITHUB2024">Utiliser le coupon</a></li>
-  <li style="color:red;">### **Techniques Avancées sur AWS & Terraform [2024]**<br>
-    <strong>Code Promo :</strong> `AWS2024`<br>
-    <a href="https://www.udemy.com/course/aws/?couponCode=AWS2024">Utiliser le coupon</a></li>
-  <li style="color:orange;">### **Devenez EXPERT Kubernetes [2024]**<br>
-    <strong>Code Promo :</strong> `KUBERNETES2024`<br>
-    <a href="https://www.udemy.com/course/kubernetes/?couponCode=KUBERNETES2024">Utiliser le coupon</a></li>
-  <li style="color:blue;">### **OPNsense Masterclass [2024]**<br>
-    <strong>Code Promo :</strong> `OPNSENSE2024`<br>
-    <a href="https://www.udemy.com/course/opnsense/?couponCode=OPNSENSE2024">Utiliser le coupon</a></li>
-  <li style="color:green;">### **Ansible Network & Windows Mastery [2024]**<br>
-    <strong>Code Promo :</strong> `ANSIBLE2024`<br>
-    <a href="https://www.udemy.com/course/ansible/?couponCode=ANSIBLE2024">Utiliser le coupon</a></li>
-</ul>
+- ### **Fondamentaux de la sécurité pour Comptia security+ [2024]**
+  **Code Promo :** `SECURITY2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/security/?couponCode=SECURITY2024)
+
+- ### **Pilotez votre Infrastructure Cloud avec Terraform**
+  **Code Promo :** `TERRAFORM2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/terraform/?couponCode=TERRAFORM2024)
+
+- ### **Maîtrisez Vagrant | 2024**
+  **Code Promo :** `VAGRANT2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/vagrant/?couponCode=VAGRANT2024)
+
+- ### **Maîtrisez Prometheus [2024]**
+  **Code Promo :** `PROMETHEUS2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/prometheus/?couponCode=PROMETHEUS2024)
+
+- ### **Superviser une Infrastructure avec Grafana [2024]**
+  **Code Promo :** `GRAFANA2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/grafana/?couponCode=GRAFANA2024)
+
+- ### **GLPI Masterclass [2024]**
+  **Code Promo :** `GLPI2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/glpi/?couponCode=GLPI2024)
+
+- ### **Administration système Linux Ubuntu [2024]**
+  **Code Promo :** `UBUNTU2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/ubuntu/?couponCode=UBUNTU2024)
+
+- ### **Maîtrisez Git et GitHub**
+  **Code Promo :** `GITGITHUB2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/gitgithub/?couponCode=GITGITHUB2024)
+
+- ### **Techniques Avancées sur AWS & Terraform [2024]**
+  **Code Promo :** `AWS2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/aws/?couponCode=AWS2024)
+
+- ### **Devenez EXPERT Kubernetes [2024]**
+  **Code Promo :** `KUBERNETES2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/kubernetes/?couponCode=KUBERNETES2024)
+
+- ### **OPNsense Masterclass [2024]**
+  **Code Promo :** `OPNSENSE2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/opnsense/?couponCode=OPNSENSE2024)
+
+- ### **Ansible Network & Windows Mastery [2024]**
+  **Code Promo :** `ANSIBLE2024`  
+  [Utiliser le coupon](https://www.udemy.com/course/ansible/?couponCode=ANSIBLE2024)
 
 ## Autres options de financement
 
