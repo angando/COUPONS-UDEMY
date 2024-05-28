@@ -65,6 +65,52 @@ Si vous n'êtes pas satisfait, inutile de mettre une mauvaise note en contrepart
   **Code Promo :** `4B69FEFC6730ABFD6D01`  
   [Utiliser le coupon](https://www.udemy.com/course/ansible-for-networks-automatisation/?couponCode=4B69FEFC6730ABFD6D01)
 
+- ### **Ansible network & Windows Mastery [2024]**
+  **Code Promo :** `78DD5945CF2ABDB56332`
+  [Utiliser le coupon]( https://www.udemy.com/course/ansible-for-networks-automatisation/?couponCode=78DD5945CF2ABDB56332)
+
+- ### **Namp pour les débutants [2024]**
+  **Code Promo :** `78DD5945CF2ABDB56332`
+  [Utiliser le coupon](https://www.udemy.com/course/nmap-pour-les-debutants-2024/?couponCode=555B858F4A4E7CA36F3A)
+  
+ - ### **Automatiser vos  déploiement avec Jenkins [2024]**
+  **Code Promo :** `78DD5945CF2ABDB56332`
+  [Utiliser le coupon](https://www.udemy.com/course/jenkins-essentiel-2024/?couponCode=695EE1F96B563BC08EA8)
+
+   - ### **Automatiser vos  déploiement avec Jenkins [2024]**
+  **Code Promo :** `78DD5945CF2ABDB56332`
+  [Utiliser le coupon](https://www.udemy.com/course/jenkins-essentiel-2024/?couponCode=695EE1F96B563BC08EA8)
+
+ - ### **Administrateur des infrastructures virtuelles avec Proxmox[2024]**
+  **Code Promo :** `EF4892170D2655493399`
+  [Utiliser le coupon](https://www.udemy.com/course/apprenez-ladministration-de-proxmox-2023/?couponCode=EF4892170D2655493399)
+
+ - ### **Pfsense[2024]**
+  **Code Promo :** `C6628B06DA45E7426643`
+  [Utiliser le coupon](https://www.udemy.com/course/pfsense-evitez-les-failles-de-securite-2023/?couponCode=C6628B06DA45E7426643)
+
+   - ### **Pfsense[2024]**
+  **Code Promo :** `C6628B06DA45E7426643`
+  [Utiliser le coupon](https://www.udemy.com/course/pfsense-evitez-les-failles-de-securite-2023/?couponCode=C6628B06DA45E7426643)
+
+
+   - ### **Administration de GLPI [2024]**
+  **Code Promo :** `C6628B06DA45E7426643`
+  [Utiliser le coupon](https://www.udemy.com/course/optimisation-de-la-gestion-informatique-avec-glpi/?couponCode=656402917EA8FDBFF36F)
+  
+  - ### **Administration de GLPI [2024]**
+  **Code Promo :** `C6628B06DA45E7426643`
+  [Utiliser le coupon](https://www.udemy.com/course/optimisation-de-la-gestion-informatique-avec-glpi/?couponCode=656402917EA8FDBFF36F)
+   
+   - ### **Supervision d'un système d'information avec Zabbix [2024]**
+  **Code Promo :** `C6628B06DA45E7426643`
+  [Utiliser le coupon](https://www.udemy.com/course/zabbix-6-2023/?couponCode=905E4F70BEE0166D2CFD)
+
+  - ### **Sauvegarde des machines virtuelles avec Veeam backup [2024]**
+  **Code Promo :** `2EB059326E0008CAF904`
+  [Utiliser le coupon](https://www.udemy.com/course/veeam-backup-and-replication-2022/?couponCode=2EB059326E0008CAF904)
+  
+
 <br>
 <br>
 
