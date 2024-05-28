@@ -4,7 +4,16 @@ Profitez de nos formations gratuites et obtenez des réductions exclusives sur l
 
 ## Comment ça marche ?
 
-Nous avons mis en place plusieurs formations gratuites sur Udemy pour vous permettre de découvrir notre contenu de haute qualité sans engagement financier. Si vous souhaitez poursuivre et compléter votre apprentissage, vous pouvez utiliser les coupons de réduction disponibles ci-dessous pour accéder aux formations complètes à prix réduit.
+Nous avons mis en place plusieurs formations gratuites sur Udemy pour vous permettre de découvrir notre contenu de haute qualité sans engagement financier. Vous suivez la formation gratuite qui dure 1h à 2h en fonction des formations. Selon les politiques d'Udemy, lorsqu'une formation dure plus de 2h, elle devient payante ! C'est pourquoi nous ne pouvons pas vous proposer des formations gratuites de plus de deux heures. 
+
+Si vous souhaitez poursuivre et compléter votre apprentissage, vous pouvez utiliser les coupons de réduction disponibles ci-dessous pour accéder aux formations complètes à prix réduit. Si la formation vous intéresse, choisissez un coupon dans la liste des coupons plus bas pour obtenir une réduction significative et faciliter l'accès à la formation désirée. 
+
+Si vous n'êtes pas satisfait, inutile de mettre une mauvaise note. Contactez-nous via la messagerie privée du cours sur Udemy ou par mail à l'adresse [contact@teachmemore.fr](mailto:contact@teachmemore.fr). 
+
+
+
+
+## Formations Gratuites Disponibles
 
 
 - **Initiation à l'analyse de données avec splunk**
