@@ -18,7 +18,6 @@ Si vous n'êtes pas satisfait, inutile de mettre une mauvaise note. Contactez-no
 
 ## Formations Gratuites Disponibles
 
-
 - **Initiation à l'analyse de données avec splunk**
   [Accéder à la formation gratuite](https://www.udemy.com/course/draft/5993268/?referralCode=8E5AFD760223E7B72E9E)
 
@@ -67,9 +66,8 @@ Si vous n'êtes pas satisfait, inutile de mettre une mauvaise note. Contactez-no
 
 - **Initiation à Prometheus**
 [Accéder à la formation gratuite](https://www.udemy.com/course/draft/5991448/?referralCode=690840FB022C929CE9D3)
-
-
-
+<br>
+<br>
 
 
 ## Coupons de Réduction Disponibles
@@ -122,20 +120,17 @@ Si vous n'êtes pas satisfait, inutile de mettre une mauvaise note. Contactez-no
   **Code Promo :** `4B69FEFC6730ABFD6D01`  
   [Utiliser le coupon](https://www.udemy.com/course/ansible-for-networks-automatisation/?couponCode=4B69FEFC6730ABFD6D01)
 
-  
-#
-#
-#
-
+<br>
+<br>
 
 ## Autres options de financement
 
 En plus des coupons Udemy, nous vous proposons d'autres moyens de financer votre apprentissage :
 
 - **Abonnements TeachMemore** : Abonnez-vous à www.teachmemore.fr avec notre code promo `TEACH40` pour bénéficier de `40%` de réduction et d'un accès illimité à tous nos cours pendant 1 an ou utiliser le code promo `TEACH50` pour bénéficier de d'une réduction de `50%` de réduction pendant 3 mois sur votre abonnement mensuel
- #
- #
 
+<br>
+<br>
 
 - **Programme Ambassadeur TeachMemore** : Devenez ambassadeur TeachMemore et profitez de nombreux avantages en partageant votre passion pour nos formations.
 
@@ -147,7 +142,8 @@ En plus des coupons Udemy, nous vous proposons d'autres moyens de financer votre
 
 - [Youtube](https://www.youtube.com/channel/UCX_iiZxUSDrlqrbMoIsPScQ)
 
-
+<br>
+<br>
 
 Suivez-nous sur les réseaux sociaux :
 
