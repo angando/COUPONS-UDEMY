@@ -12,7 +12,7 @@ Nous avons mis en place plusieurs formations gratuites sur Udemy pour vous perme
 
 Si vous souhaitez poursuivre et compléter votre apprentissage, vous pouvez utiliser les coupons de réduction disponibles ci-dessous pour accéder aux formations complètes à prix réduit. Si la formation vous intéresse, choisissez un coupon dans la liste des coupons plus bas pour obtenir une réduction significative et faciliter l'accès à la formation désirée. 
 
-Si vous n'êtes pas satisfait, inutile de mettre une mauvaise note. Contactez-nous via la messagerie privée du cours sur Udemy ou par mail à l'adresse [contact@teachmemore.fr](mailto:contact@teachmemore.fr). 
+Si vous n'êtes pas satisfait, inutile de mettre une mauvaise note en contrepartie. Contactez-nous via la messagerie privée du cours sur Udemy ou par mail à l'adresse [contact@teachmemore.fr](mailto:contact@teachmemore.fr) pour nous indiquer vos suggestions.
 <br>
 <br>
 ## Coupons de Réduction Disponibles
@@ -89,6 +89,10 @@ Inscrivez-vous ici : https://tally.so/r/mJz98r puis partager les coupons de réd
 Suivez-nous sur les réseaux sociaux :
 
 - [LinkedIn](https://www.linkedin.com/in/armel-ngando-27898960/)
+
+  Partager ce lien à votre communauté serait déjà un début de notre collaboration : https://github.com/angando/COUPONS-UDEMY/blob/main/Readme.md
+
+  
 
 <br>
 <br>
