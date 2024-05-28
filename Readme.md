@@ -121,6 +121,55 @@ Si vous n'êtes pas satisfait, inutile de mettre une mauvaise note en contrepart
 - ### **Sauvegarde des machines virtuelles avec Veeam backup [2024]**
   **Code Promo :** `2EB059326E0008CAF904`
   [Utiliser le coupon](https://www.udemy.com/course/veeam-backup-and-replication-2022/?couponCode=2EB059326E0008CAF904)
+
+
+- ### **Simulation réseau avec GNS3 [2024]**
+  **Code Promo :** `C3E16A5B8E37DACEAA38`
+  [Utiliser le coupon](https://www.udemy.com/course/gns3-lessentiel/?couponCode=C3E16A5B8E37DACEAA38)
+
+
+- ### **Administration d'un Serveur Windows [2024]**
+  **Code Promo :** `9BAB2383CFBF6D7519AA`
+  [Utiliser le coupon](https://www.udemy.com/course/apprendre-a-installer-et-administrer-un-serveur-windows/?couponCode=9BAB2383CFBF6D7519AA)
+
+- ### **Sécuriser un réseau avec Palo Alto [2024]**
+  **Code Promo :** `7A2E4E1DF5E2F0FAB8DB`
+  [Utiliser le coupon](https://www.udemy.com/course/palo-alto/?couponCode=7A2E4E1DF5E2F0FAB8DB)
+
+- ### **Proxmox[2024]**
+  **Code Promo :** `958B416FA78DFEBEEAB5`
+  [Utiliser le coupon](https://www.udemy.com/course/virtualiser-votre-infrastructure-avec-proxmox-ve-6/?couponCode=958B416FA78DFEBEEAB5)
+
+- ### **Pfsense[2024]**
+  **Code Promo :** `3A44E59B3CCEC960E6BD`
+  [Utiliser le coupon](https://www.udemy.com/course/pfsense-lessentiel/?couponCode=3A44E59B3CCEC960E6BD)
+
+- ### **Pfsense[2024]**
+  **Code Promo :** `3A44E59B3CCEC960E6BD`
+  [Utiliser le coupon](https://www.udemy.com/course/pfsense-lessentiel/?couponCode=3A44E59B3CCEC960E6BD)
+
+- ### **Windows Server 2019 [2024]**
+  **Code Promo :** `07C45BAAED434C984973`
+  [Utiliser le coupon](https://www.udemy.com/course/administrer-windows-server-2019/?couponCode=07C45BAAED434C984973)
+
+- ### **Supervision d'une Infrastructure systèmes et réseaux avec Centreon [2024]**
+  **Code Promo :** `880D6C8685E9B93BB146`
+  [Utiliser le coupon](https://www.udemy.com/course/superviser-un-systeme-dinformation-avec-centreon/?couponCode=880D6C8685E9B93BB146)
+
+- ### **Préparer sa certification NSE4 [2024]**
+  **Code Promo :** `606A9F3251F2C92A0B65`
+  [Utiliser le coupon]( https://www.udemy.com/course/fortinet-lessentiel/?couponCode=606A9F3251F2C92A0B65)
+
+ 
+
+
+
+  
+  
+  
+
+  
+  
   
 
 <br>
