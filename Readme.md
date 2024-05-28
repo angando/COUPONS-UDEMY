@@ -15,60 +15,6 @@ Si vous souhaitez poursuivre et compléter votre apprentissage, vous pouvez util
 Si vous n'êtes pas satisfait, inutile de mettre une mauvaise note. Contactez-nous via la messagerie privée du cours sur Udemy ou par mail à l'adresse [contact@teachmemore.fr](mailto:contact@teachmemore.fr). 
 <br>
 <br>
-
-## Formations Gratuites Disponibles
-
-- **Initiation à l'analyse de données avec splunk**
-  [Accéder à la formation gratuite](https://www.udemy.com/course/draft/5993268/?referralCode=8E5AFD760223E7B72E9E)
-
-
-- **Initiation à la gestion des packages Kubernetes avec Helm**
-  [Accéder à la formation gratuite](https://www.udemy.com/course/draft/5992762/?referralCode=93051505F2B8C7452FC8)
-
-- **Initiation à l'orchestration de conteneurs avec Kubernetes**
-[Accéder à la formation gratuite]()
-
-- **Les fondamentaux de la cyberSécurité**
-[Accéder à la formation gratuite](https://www.udemy.com/course/les-fondamentaux-de-la-cybersecurite/?referralCode=088309052CF1EAE0D8AF)
-
-- **Initiation à Microsoft 365**
-[Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-microsoft-365/?referralCode=DED01D114A8CEE787CBB)
-
-- **Initiation à la conteneurisation avec Docker**
-[Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-la-conteneurisation-avec-docker/?referralCode=7B9870AA68CC678278CA)
-
-- **Initiation à Windows Server**
-[Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-windows-server/?referralCode=8D8DC956D1EC0A8CFBA5)
-
-- **Initiation à la sauvegarde des données avec OpenMediaVault**
-[Accéder à la formation gratuite](https://www.udemy.com/course/intiation-a-la-sauvegarde-des-donnees-avec-openmediavault/?referralCode=34604865A9DAE9159195)
-
-- **Initiation aux commandes de base Linux**
-[Accéder à la formation gratuite](https://www.udemy.com/course/initiation-aux-commandes-de-bases-linux/?referralCode=E3D692EF11A5974FC062)
-
-- **Initiation à VMware vCenter et ESXi**
-[Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-vmware-vcenter-et-esxi/?referralCode=45BA9D7A603623E815F9)
-
-- **Initialisation à la virtualisation avec VirtualBox**
-[Accéder à la formation gratuite](https://www.udemy.com/course/intialisation-a-la-virtualisation-avec-virtualbox/?referralCode=1FB05F3D0286D7D581D6)
-
-- **Initiation à Git et GitHub**
-[Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-git-et-github/?referralCode=4DBCB852679F31947BEC)
-
-- **Initialisation à la téléphonie IP avec Xivo**
-[Accéder à la formation gratuite](https://www.udemy.com/course/initialisation-a-la-telephonie-ip-avec-xivo/?referralCode=4A512BF50627D246A1C1)
-
-- **Initiation à l'automatisation réseau avec Ansible**
-[Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-lautomatisation-reseau-avec-ansible/?referralCode=B2F63FC7BC6043318DAC)
-
-- **Introduction à la Sécurité avec FortiGate**
-[Accéder à la formation gratuite](https://www.udemy.com/course/introduction-a-la-securite-avec-fortigate/?referralCode=43A72872F07A62F29FF0)
-
-- **Initiation à Prometheus**
-[Accéder à la formation gratuite](https://www.udemy.com/course/draft/5991448/?referralCode=690840FB022C929CE9D3)
-<br>
-<br>
-
 ## Coupons de Réduction Disponibles
 
 - ### **Fondamentaux de la sécurité pour Comptia security+ [2024]**
@@ -122,6 +68,7 @@ Si vous n'êtes pas satisfait, inutile de mettre une mauvaise note. Contactez-no
 <br>
 <br>
 
+
 ## Autres options de financement
 
 En plus des coupons Udemy, nous vous proposons d'autres moyens de financer votre apprentissage :
@@ -142,6 +89,60 @@ Inscrivez-vous ici : https://tally.so/r/mJz98r puis partager les coupons de réd
 Suivez-nous sur les réseaux sociaux :
 
 - [LinkedIn](https://www.linkedin.com/in/armel-ngando-27898960/)
+
+
+## Formations Gratuites Disponibles
+
+- **Initiation à l'analyse de données avec splunk**
+  [Accéder à la formation gratuite](https://www.udemy.com/course/draft/5993268/?referralCode=8E5AFD760223E7B72E9E)
+
+
+- **Initiation à la gestion des packages Kubernetes avec Helm**
+  [Accéder à la formation gratuite](https://www.udemy.com/course/draft/5992762/?referralCode=93051505F2B8C7452FC8)
+
+- **Initiation à l'orchestration de conteneurs avec Kubernetes**
+[Accéder à la formation gratuite]()
+
+- **Les fondamentaux de la cyberSécurité**
+[Accéder à la formation gratuite](https://www.udemy.com/course/les-fondamentaux-de-la-cybersecurite/?referralCode=088309052CF1EAE0D8AF)
+
+- **Initiation à Microsoft 365**
+[Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-microsoft-365/?referralCode=DED01D114A8CEE787CBB)
+
+- **Initiation à la conteneurisation avec Docker**
+[Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-la-conteneurisation-avec-docker/?referralCode=7B9870AA68CC678278CA)
+
+- **Initiation à Windows Server**
+[Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-windows-server/?referralCode=8D8DC956D1EC0A8CFBA5)
+
+- **Initiation à la sauvegarde des données avec OpenMediaVault**
+[Accéder à la formation gratuite](https://www.udemy.com/course/intiation-a-la-sauvegarde-des-donnees-avec-openmediavault/?referralCode=34604865A9DAE9159195)
+
+- **Initiation aux commandes de base Linux**
+[Accéder à la formation gratuite](https://www.udemy.com/course/initiation-aux-commandes-de-bases-linux/?referralCode=E3D692EF11A5974FC062)
+
+- **Initiation à VMware vCenter et ESXi**
+[Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-vmware-vcenter-et-esxi/?referralCode=45BA9D7A603623E815F9)
+
+- **Initialisation à la virtualisation avec VirtualBox**
+[Accéder à la formation gratuite](https://www.udemy.com/course/intialisation-a-la-virtualisation-avec-virtualbox/?referralCode=1FB05F3D0286D7D581D6)
+
+- **Initiation à Git et GitHub**
+[Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-git-et-github/?referralCode=4DBCB852679F31947BEC)
+
+- **Initialisation à la téléphonie IP avec Xivo**
+[Accéder à la formation gratuite](https://www.udemy.com/course/initialisation-a-la-telephonie-ip-avec-xivo/?referralCode=4A512BF50627D246A1C1)
+
+- **Initiation à l'automatisation réseau avec Ansible**
+[Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-lautomatisation-reseau-avec-ansible/?referralCode=B2F63FC7BC6043318DAC)
+
+- **Introduction à la Sécurité avec FortiGate**
+[Accéder à la formation gratuite](https://www.udemy.com/course/introduction-a-la-securite-avec-fortigate/?referralCode=43A72872F07A62F29FF0)
+
+- **Initiation à Prometheus**
+[Accéder à la formation gratuite](https://www.udemy.com/course/draft/5991448/?referralCode=690840FB022C929CE9D3)
+<br>
+<br>
 
 
 &copy; 2024 TeachMeMore. Tous droits réservés.
