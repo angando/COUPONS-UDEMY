@@ -90,6 +90,8 @@ Suivez-nous sur les réseaux sociaux :
 
 - [LinkedIn](https://www.linkedin.com/in/armel-ngando-27898960/)
 
+<br>
+<br>
 
 ## Formations Gratuites Disponibles
 
