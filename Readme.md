@@ -208,5 +208,14 @@ Suivez-nous sur les réseaux sociaux :
 <br>
 <br>
 
+### Notre Bootcamp SYSOPS DEVOPS
+
+Notre bootcamp sysops devops est conçu pour aider les administrateurs Systèmes et Réseaux à Adopter la culture DEVOPS. Pour en savoir plus, vous pouvez vous inscrire via ce formulaire :
+
+https://docs.google.com/forms/d/e/1FAIpQLScmhSbSd9IclNf-h0HfhWWnguzfRoGJAIh9kQLEArXj62Uz1A/viewform?usp=sf_link
+
+Nous prendrons contact avec vous.
+
+
 
 &copy; 2024 TeachMeMore. Tous droits réservés.
