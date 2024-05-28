@@ -138,12 +138,8 @@ Inscrivez-vous ici : https://tally.so/r/mJz98r
 - **Nos formations sont gratuites sur YOUTUBE** : Abonnez-vous à notre chaîne Youtube pour profiter de nos formations gratuites, likez nos vidéos, partagez pourque notre communauté puisse de developper afin qu'on vous fournisse toujours des contenus.
 
 - [Youtube](https://www.youtube.com/channel/UCX_iiZxUSDrlqrbMoIsPScQ)
-
 <br>
-<br>
-
 Suivez-nous sur les réseaux sociaux :
-
 
 - [LinkedIn](https://www.linkedin.com/in/armel-ngando-27898960/)
 
