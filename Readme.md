@@ -120,13 +120,18 @@ Si vous n'êtes pas satisfait, inutile de mettre une mauvaise note. Contactez-no
   [Utiliser le coupon](https://www.udemy.com/course/ansible-for-networks-automatisation/?couponCode=4B69FEFC6730ABFD6D01)
 
   
+#
+#
+#
+
 
 ## Autres options de financement
 
 En plus des coupons Udemy, nous vous proposons d'autres moyens de financer votre apprentissage :
 
 - **Abonnements TeachMemore** : Abonnez-vous à www.teachmemore.fr avec notre code promo `TEACH40` pour bénéficier de `40%` de réduction et d'un accès illimité à tous nos cours pendant 1 an ou utiliser le code promo `TEACH50` pour bénéficier de d'une réduction de `50%` de réduction pendant 3 mois sur votre abonnement mensuel
-  
+ #
+ #
 
 
 - **Programme Ambassadeur TeachMemore** : Devenez ambassadeur TeachMemore et profitez de nombreux avantages en partageant votre passion pour nos formations.
