@@ -4,7 +4,7 @@
 
 ### Qui suis-je ?
 
-Je m'appelle Armel NGANDO, je suis le fondateur de la plateforme d'e-learning [www.teachmemore.fr](https://www.teachmemore.fr). J'ai une vaste expertise dans le domaine de l'IT, couvrant l'administration des systèmes et des réseaux, la sécurité, le cloud, le DevOps, ainsi que le développement web et mobile. Depuis plus de 10 ans, je travaille dans ce secteur, et depuis 3,5 ans, je combine le consulting et la formation.
+Je m'appelle Armel NGANDO, je suis le fondateur de la plateforme d'e-learning [www.teachmemore.fr](https://www.teachmemore.fr). J'ai une vaste expertise dans le domaine de l'IT, couvrant l'administration des systèmes et des réseaux, la sécurité, le cloud, le DevOps, ainsi que le développement web et mobile. Depuis plus de 10 ans, je travaille dans ce secteur, et depuis 3,5 ans, je combine le consulting et la formation professionnelle pour Adultes.
 
 Je suis référencé dans plusieurs universités privées en France, où j'accompagne des promotions allant du bac+1 au bac+5 pour les aider à monter en compétences. J'accompagne également les consultants d'entreprise pour qu'ils développent leurs compétences. J'ai une communauté de 14 000 abonnés sur LinkedIn, +8 000 sur YouTube et +7 500 sur Facebook. À ce jour, j'ai formé plus de 2 0000 personnes sur la plateforme Udemy, où j'ai une note de 4,5/5, + 10000 sur ma plateforme TeachMeMore, ce qui fait de moi un formateur reconnu dans le monde francophone.
 
