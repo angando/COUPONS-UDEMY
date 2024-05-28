@@ -24,46 +24,46 @@ Si vous n'êtes pas satisfait, inutile de mettre une mauvaise note. Contactez-no
   [Accéder à la formation gratuite](https://www.udemy.com/course/draft/5992762/?referralCode=93051505F2B8C7452FC8)
 
 - **Initiation à l'orchestration de conteneurs avec Kubernetes**
-  - [Accéder à la formation gratuite]()
+[Accéder à la formation gratuite]()
 
 - **Les fondamentaux de la cyberSécurité**
-  - [Accéder à la formation gratuite](https://www.udemy.com/course/les-fondamentaux-de-la-cybersecurite/?referralCode=088309052CF1EAE0D8AF)
+[Accéder à la formation gratuite](https://www.udemy.com/course/les-fondamentaux-de-la-cybersecurite/?referralCode=088309052CF1EAE0D8AF)
 
 - **Initiation à Microsoft 365**
-  - [Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-microsoft-365/?referralCode=DED01D114A8CEE787CBB)
+[Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-microsoft-365/?referralCode=DED01D114A8CEE787CBB)
 
 - **Initiation à la conteneurisation avec Docker**
-  - [Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-la-conteneurisation-avec-docker/?referralCode=7B9870AA68CC678278CA)
+[Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-la-conteneurisation-avec-docker/?referralCode=7B9870AA68CC678278CA)
 
 - **Initiation à Windows Server**
-  - [Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-windows-server/?referralCode=8D8DC956D1EC0A8CFBA5)
+[Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-windows-server/?referralCode=8D8DC956D1EC0A8CFBA5)
 
 - **Initiation à la sauvegarde des données avec OpenMediaVault**
-  - [Accéder à la formation gratuite](https://www.udemy.com/course/intiation-a-la-sauvegarde-des-donnees-avec-openmediavault/?referralCode=34604865A9DAE9159195)
+[Accéder à la formation gratuite](https://www.udemy.com/course/intiation-a-la-sauvegarde-des-donnees-avec-openmediavault/?referralCode=34604865A9DAE9159195)
 
 - **Initiation aux commandes de base Linux**
-  - [Accéder à la formation gratuite](https://www.udemy.com/course/initiation-aux-commandes-de-bases-linux/?referralCode=E3D692EF11A5974FC062)
+[Accéder à la formation gratuite](https://www.udemy.com/course/initiation-aux-commandes-de-bases-linux/?referralCode=E3D692EF11A5974FC062)
 
 - **Initiation à VMware vCenter et ESXi**
-  - [Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-vmware-vcenter-et-esxi/?referralCode=45BA9D7A603623E815F9)
+[Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-vmware-vcenter-et-esxi/?referralCode=45BA9D7A603623E815F9)
 
 - **Initialisation à la virtualisation avec VirtualBox**
-  - [Accéder à la formation gratuite](https://www.udemy.com/course/intialisation-a-la-virtualisation-avec-virtualbox/?referralCode=1FB05F3D0286D7D581D6)
+[Accéder à la formation gratuite](https://www.udemy.com/course/intialisation-a-la-virtualisation-avec-virtualbox/?referralCode=1FB05F3D0286D7D581D6)
 
 - **Initiation à Git et GitHub**
-  - [Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-git-et-github/?referralCode=4DBCB852679F31947BEC)
+[Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-git-et-github/?referralCode=4DBCB852679F31947BEC)
 
 - **Initialisation à la téléphonie IP avec Xivo**
-  - [Accéder à la formation gratuite](https://www.udemy.com/course/initialisation-a-la-telephonie-ip-avec-xivo/?referralCode=4A512BF50627D246A1C1)
+[Accéder à la formation gratuite](https://www.udemy.com/course/initialisation-a-la-telephonie-ip-avec-xivo/?referralCode=4A512BF50627D246A1C1)
 
 - **Initiation à l'automatisation réseau avec Ansible**
-  - [Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-lautomatisation-reseau-avec-ansible/?referralCode=B2F63FC7BC6043318DAC)
+[Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-lautomatisation-reseau-avec-ansible/?referralCode=B2F63FC7BC6043318DAC)
 
 - **Introduction à la Sécurité avec FortiGate**
-  - [Accéder à la formation gratuite](https://www.udemy.com/course/introduction-a-la-securite-avec-fortigate/?referralCode=43A72872F07A62F29FF0)
+[Accéder à la formation gratuite](https://www.udemy.com/course/introduction-a-la-securite-avec-fortigate/?referralCode=43A72872F07A62F29FF0)
 
 - **Initiation à Prometheus**
-  - [Accéder à la formation gratuite](https://www.udemy.com/course/draft/5991448/?referralCode=690840FB022C929CE9D3)
+[Accéder à la formation gratuite](https://www.udemy.com/course/draft/5991448/?referralCode=690840FB022C929CE9D3)
 
 
 
@@ -131,7 +131,8 @@ En plus des coupons Udemy, nous vous proposons d'autres moyens de financer votre
 
 - **Programme Ambassadeur TeachMemore** : Devenez ambassadeur TeachMemore et profitez de nombreux avantages en partageant votre passion pour nos formations.
 
-## Suivez-nous
+## Inscrivez-vous ici : https://tally.so/r/mJz98r
+
 
 Suivez-nous sur les réseaux sociaux :
 
