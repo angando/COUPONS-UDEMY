@@ -132,7 +132,7 @@ En plus des coupons Udemy, nous vous proposons d'autres moyens de financer votre
 <br>
 
 - **Programme Ambassadeur TeachMemore** : Devenez ambassadeur TeachMemore et profitez de nombreux avantages en partageant votre passion pour nos formations.
-Inscrivez-vous ici : https://tally.so/r/mJz98r
+Inscrivez-vous ici : https://tally.so/r/mJz98r puis partager les coupons de réduction à vos proches. Si vos proches s'abonnent à la formation, nous vous fournirons gratuitement une formation à votre choix. Nous vous donnerons via email les conditions pour être ambassadeur.
 
 
 - **Nos formations sont gratuites sur YOUTUBE** : Abonnez-vous à notre chaîne Youtube pour profiter de nos formations gratuites, likez nos vidéos, partagez pourque notre communauté puisse de developper afin qu'on vous fournisse toujours des contenus.
