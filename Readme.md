@@ -69,7 +69,6 @@ Si vous n'êtes pas satisfait, inutile de mettre une mauvaise note. Contactez-no
 <br>
 <br>
 
-
 ## Coupons de Réduction Disponibles
 
 - ### **Fondamentaux de la sécurité pour Comptia security+ [2024]**
@@ -133,12 +132,10 @@ En plus des coupons Udemy, nous vous proposons d'autres moyens de financer votre
 <br>
 
 - **Programme Ambassadeur TeachMemore** : Devenez ambassadeur TeachMemore et profitez de nombreux avantages en partageant votre passion pour nos formations.
-
-## Inscrivez-vous ici : https://tally.so/r/mJz98r
+Inscrivez-vous ici : https://tally.so/r/mJz98r
 
 
 - **Nos formations sont gratuites sur YOUTUBE** : Abonnez-vous à notre chaîne Youtube pour profiter de nos formations gratuites, likez nos vidéos, partagez pourque notre communauté puisse de developper afin qu'on vous fournisse toujours des contenus.
-- 
 
 - [Youtube](https://www.youtube.com/channel/UCX_iiZxUSDrlqrbMoIsPScQ)
 
