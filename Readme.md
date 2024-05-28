@@ -1,6 +1,6 @@
 # Bienvenue sur notre page de promotions spéciales pour les cours Udemy !
 
-Profitez de nos formations gratuites et obtenez des réductions exclusives sur les cours complets.
+## Profitez de nos formations gratuites et obtenez des réductions exclusives sur les cours complets.
 
 <br>
 <br>
