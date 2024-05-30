@@ -214,7 +214,7 @@ Suivez-nous sur les réseaux sociaux :
   [Accéder à la formation gratuite](https://www.udemy.com/course/draft/5992762/?referralCode=93051505F2B8C7452FC8)
 
 - **Initiation à l'orchestration de conteneurs avec Kubernetes**
-[Accéder à la formation gratuite]()
+[Accéder à la formation gratuite](https://www.udemy.com/course/initiation-a-lorchestration-de-conteneurs-avec-kubernetes/?referralCode=97F4C0BEA1E2DCA56615)
 
 - **Les fondamentaux de la cyberSécurité**
 [Accéder à la formation gratuite](https://www.udemy.com/course/les-fondamentaux-de-la-cybersecurite/?referralCode=088309052CF1EAE0D8AF)
