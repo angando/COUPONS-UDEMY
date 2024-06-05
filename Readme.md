@@ -25,6 +25,8 @@ Nous avons mis en place plusieurs formations gratuites sur Udemy pour vous perme
 Si vous souhaitez poursuivre et compléter votre apprentissage, vous pouvez utiliser les coupons de réduction disponibles ci-dessous pour accéder aux formations complètes à prix réduit. Si la formation vous intéresse, choisissez un coupon dans la liste des coupons plus bas pour obtenir une réduction significative et faciliter l'accès à la formation désirée. 
 
 Si vous n'êtes pas satisfait, inutile de mettre une mauvaise note en contrepartie. Contactez-nous via la messagerie privée du cours sur Udemy ou par mail à l'adresse [contact@teachmemore.fr](mailto:contact@teachmemore.fr) pour nous indiquer vos suggestions.
+
+### La liste des cours gratuits est à la fin !
 <br>
 <br>
 
