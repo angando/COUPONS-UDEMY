@@ -33,56 +33,56 @@ Si vous n'êtes pas satisfait, inutile de mettre une mauvaise note en contrepart
 ## Coupons de Réduction Disponibles
 
 - ### **Fondamentaux de la sécurité pour Comptia security+ [2024]**
-  **Code Promo :** `B527A629ED98D007617F`  
-  [Utiliser le coupon](https://www.udemy.com/course/fondamentaux-de-la-securite-pour-comptia-security/?couponCode=B527A629ED98D007617F)
+  **Code Promo :** `ABD7F46A2C6E44411E5B`  
+  [Utiliser le coupon](https://www.udemy.com/course/fondamentaux-de-la-securite-pour-comptia-security/?couponCode=ABD7F46A2C6E44411E5B)
 
 - ### **Pilotez votre Infrastructure Cloud avec Terraform**
   **Code Promo :** `582607C7B9412F6F02CA`  
-  [Utiliser le coupon](https://www.udemy.com/course/pilotez-votre-infrastructure-cloud-avec-terraform/?couponCode=582607C7B9412F6F02C)
+  [Utiliser le coupon](https://www.udemy.com/course/pilotez-votre-infrastructure-cloud-avec-terraform/?couponCode=582607C7B9412F6F02CA)
 
 - ### **Maîtrisez Vagrant | 2024**
   **Code Promo :** `7E7DEC176F680BE5BFB0`  
   [Utiliser le coupon](https://www.udemy.com/course/vagrant-2023/?couponCode=7E7DEC176F680BE5BFB0)
 
 - ### **Maîtrisez Prometheus [2024]**
-  **Code Promo :** `74869FD48D93CBD5E68D`  
-  [Utiliser le coupon](https://www.udemy.com/course/prometheus-unlocked-2023/?couponCode=74869FD48D93CBD5E68D)
+  **Code Promo :** `1F776629E82D8E9AA867`  
+  [Utiliser le coupon](https://www.udemy.com/course/prometheus-unlocked-2023/?couponCode=1F776629E82D8E9AA867)
 
 - ### **Superviser une Infrastructure avec Grafana [2024]**
-  **Code Promo :** `C4E9F03D798FBCC7FC0F`  
-  [Utiliser le coupon](https://www.udemy.com/course/grafana-essentials-2023/?couponCode=C4E9F03D798FBCC7FC0F)
+  **Code Promo :** `13C37E73DDF87955E113`  
+  [Utiliser le coupon](https://www.udemy.com/course/grafana-essentials-2023/?couponCode=13C37E73DDF87955E113)
 
 - ### **GLPI Masterclass [2024]**
-  **Code Promo :** `918A510209F4A9233A39`  
-  [Utiliser le coupon](https://www.udemy.com/course/glpi-masterclass-2023/?couponCode=918A510209F4A9233A39)
+  **Code Promo :** `BA3098D8324E0EF3259B`  
+  [Utiliser le coupon](https://www.udemy.com/course/glpi-masterclass-2023/?couponCode=BA3098D8324E0EF3259B)
 
 - ### **Administration système Linux Ubuntu [2024]**
-  **Code Promo :** `09902A2F7D7E5F71B352`  
-  [Utiliser le coupon](https://www.udemy.com/course/ubuntu-unveiled-2023/?couponCode=09902A2F7D7E5F71B352)
+  **Code Promo :** `CDB15EF8DF6CC7271A13`  
+  [Utiliser le coupon](https://www.udemy.com/course/ubuntu-unveiled-2023/?couponCode=CDB15EF8DF6CC7271A13)
 
 - ### **Maîtrisez Git et GitHub**
-  **Code Promo :** `A98B69245ADA92856B07`  
-  [Utiliser le coupon](https://www.udemy.com/course/maitrisez-git-et-github-2023/?couponCode=A98B69245ADA92856B07)
+  **Code Promo :** `DA2CC9DE821312D03DE0`  
+  [Utiliser le coupon](https://www.udemy.com/course/maitrisez-git-et-github-2023/?couponCode=DA2CC9DE821312D03DE0)
 
 - ### **Techniques Avancées sur AWS & Terraform [2024]**
-  **Code Promo :** `06BBDBB354C955B23EA9`  
-  [Utiliser le coupon](https://www.udemy.com/course/cloud-mastery-aws-terraform-2023/?couponCode=06BBDBB354C955B23EA9)
+  **Code Promo :** `DDA7BA9277E028D7E60C`  
+  [Utiliser le coupon](https://www.udemy.com/course/cloud-mastery-aws-terraform-2023/?couponCode=DDA7BA9277E028D7E60C)
 
 - ### **Devenez EXPERT Kubernetes [2024]**
-  **Code Promo :** `6A0338D912F2EA025B24`  
-  [Utiliser le coupon](https://www.udemy.com/course/kubernetes-2023/?couponCode=6A0338D912F2EA025B24)
+  **Code Promo :** `B9E2DF9EFF066A792AD5`  
+  [Utiliser le coupon](https://www.udemy.com/course/kubernetes-2023/?couponCode=B9E2DF9EFF066A792AD5)
 
 - ### **OPNsense Masterclass [2024]**
-  **Code Promo :** `3E3D628BD9C5FE382FA4`  
-  [Utiliser le coupon](https://www.udemy.com/course/securiser-un-reseau-avec-opnsense-2023/?couponCode=3E3D628BD9C5FE382FA4)
+  **Code Promo :** `AE7B38A70371C704C462`  
+  [Utiliser le coupon](https://www.udemy.com/course/securiser-un-reseau-avec-opnsense-2023/?couponCode=AE7B38A70371C704C462)
 
 - ### **Ansible Network & Windows Mastery [2024]**
   **Code Promo :** `4B69FEFC6730ABFD6D01`  
   [Utiliser le coupon](https://www.udemy.com/course/ansible-for-networks-automatisation/?couponCode=4B69FEFC6730ABFD6D01)
 
 - ### **Ansible network & Windows Mastery [2024]**
-  **Code Promo :** `78DD5945CF2ABDB56332`
-  [Utiliser le coupon]( https://www.udemy.com/course/ansible-for-networks-automatisation/?couponCode=78DD5945CF2ABDB56332)
+  **Code Promo :** `19CF97C3B1E7853DDAA0`
+  [Utiliser le coupon]( https://www.udemy.com/course/ansible-for-networks-automatisation/?couponCode=19CF97C3B1E7853DDAA0)
 
 - ### **Namp pour les débutants [2024]**
   **Code Promo :** `78DD5945CF2ABDB56332`
@@ -97,16 +97,13 @@ Si vous n'êtes pas satisfait, inutile de mettre une mauvaise note en contrepart
   [Utiliser le coupon](https://www.udemy.com/course/jenkins-essentiel-2024/?couponCode=695EE1F96B563BC08EA8)
 
 - ### **Administrateur des infrastructures virtuelles avec Proxmox[2024]**
-  **Code Promo :** `EF4892170D2655493399`
-  [Utiliser le coupon](https://www.udemy.com/course/apprenez-ladministration-de-proxmox-2023/?couponCode=EF4892170D2655493399)
+  **Code Promo :** `958B416FA78DFEBEEAB5`
+  [Utiliser le coupon](https://www.udemy.com/course/apprenez-ladministration-de-proxmox-2023/?couponCode=958B416FA78DFEBEEAB5)
+
 
 - ### **Pfsense[2024]**
-  **Code Promo :** `C6628B06DA45E7426643`
-  [Utiliser le coupon](https://www.udemy.com/course/pfsense-evitez-les-failles-de-securite-2023/?couponCode=C6628B06DA45E7426643)
-
-- ### **Pfsense[2024]**
-  **Code Promo :** `C6628B06DA45E7426643`
-  [Utiliser le coupon](https://www.udemy.com/course/pfsense-evitez-les-failles-de-securite-2023/?couponCode=C6628B06DA45E7426643)
+  **Code Promo :** `3A44E59B3CCEC960E6BD`
+  [Utiliser le coupon](https://www.udemy.com/course/pfsense-evitez-les-failles-de-securite-2023/?couponCode=3A44E59B3CCEC960E6BD)
 
 - ### **Administration de GLPI [2024]**
   **Code Promo :** `C6628B06DA45E7426643`
